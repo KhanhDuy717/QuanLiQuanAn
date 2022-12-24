@@ -1,0 +1,6 @@
+------------Các bước thực hiện để cài chương trình---------
+
+Bước 1: chạy file exec_script.bat
+Bước 2: chạy file QuanLiQuanAn.msi
+Bươc 3: bấm next tất cả
+Bước 4: chạy chương trình
